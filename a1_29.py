@@ -1,4 +1,4 @@
-def password():
+def same():
     # Write your code here
     
-passeord()
+same()
