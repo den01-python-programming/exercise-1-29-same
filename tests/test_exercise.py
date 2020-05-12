@@ -27,6 +27,6 @@ def test_exercise():
     assert [output[0],output[1],output[2]] == ["Enter the first string:",\
                                                "Enter the second string:",\
                                                "Same"]
-   assert [output[3],output[4],output[5]] == ["Enter the first string:",\
+    assert [output[3],output[4],output[5]] == ["Enter the first string:",\
                                               "Enter the second string:",\
                                               "Different"]
